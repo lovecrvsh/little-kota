@@ -2091,6 +2091,11 @@ _subresources={
 "slice_99/start_frame": 0,
 "slices/amount": 0
 }
+},
+"nodes": {
+"PATH:Skeleton3D": {
+"retarget/bone_map": Resource("res://avatars/debug_man/debug_man_map.tres")
+}
 }
 }
 fbx/importer=0

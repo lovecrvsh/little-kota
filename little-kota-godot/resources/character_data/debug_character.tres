@@ -4,9 +4,17 @@
 
 [resource]
 script = ExtResource("1_h7t7f")
+<<<<<<< Updated upstream
 character_name = "Debug Dummy"
 character_prompt = ""
 character_scenario = ""
 character_world_info = ""
 character_personality = ""
+=======
+character_name = "Debug Man"
+character_prompt = ""
+character_scenario = "In debug world; doing debug things"
+character_world_info = "Endless void of blue"
+character_personality = "Debug man hi hi"
+>>>>>>> Stashed changes
 metadata/_custom_type_script = "uid://drhho16k056ki"
